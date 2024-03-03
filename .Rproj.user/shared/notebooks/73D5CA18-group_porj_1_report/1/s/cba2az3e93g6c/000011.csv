@@ -1,0 +1,3 @@
+"0","fit1 <- lm(data = dat, formula = time_diff.sec. ~ wing_length)"
+"0","aov_rslt_1 <- anova(fit1)"
+"0","kable(aov_rslt_1)"
